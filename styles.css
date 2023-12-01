@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.border {
+    margin-top: 100px;
+    padding: 10px;
+    margin-bottom: 50px;
+}
+
+.warning {
+    margin-bottom: 25px;
+}
